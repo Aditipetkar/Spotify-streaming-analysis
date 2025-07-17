@@ -12,7 +12,6 @@ This project analyzes personal Spotify streaming data using Python and pandas.
 ## 📁 Files
 
 - `spotify_analysis.ipynb` – Main notebook with all code and visualizations
-- `requirements.txt` – Required libraries
 - `README.md` – Project overview
 
 ## 🛠 Libraries Used
